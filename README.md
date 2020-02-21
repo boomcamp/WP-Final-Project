@@ -40,7 +40,7 @@ Every created pages should be in a readble format.
 Implement at least `two custom plugins` and `one free plugin` from wordpress.
 
 ## Admin Login
-Should protected and have a custom url
+Should be `hidden`, `protected` and have a `custom url`
 
 ## Database 
 You can create you own custom tables.
