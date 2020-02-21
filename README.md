@@ -1,43 +1,35 @@
 # Marketing Website
 
-// TODO: description
+Website marketing is marketing used to promote a website and hopefully get more traffic to a website. More traffic translates to better on-line advertising placed on the website. When Internet users visit an ad on a website's page, it is referred to as CTR (click-through rate). The higher the CTR, the more the website owner stands to earn from the ads.
+
+In your final project you are going to create a marketing website that will upload in a free hosting.
 
 ## Requirements
-
-  //TODO
+//TODO
 
 ## SEO Friendly URL
-
-	//TODO
+//TODO
 
 ## Pages
-
-  //TODO 
+//TODO 
   
 ## Theme
-
-	//TODO
+//TODO
 
 ## Database 
-
-	//TODO
+//TODO
 
 ## Users
-
-	//TODO
+//TODO
 
 ## Screen Resolutions
-
-	//TODO
+//TODO
 
 ## Hosting
-
-	//TODO
+//TODO
 
 ## Custom plugin
-
-	//TODO
+//TODO
 
 # Finished
-
-  //TODO
+//TODO
