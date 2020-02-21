@@ -6,10 +6,10 @@ In your final project you are going to create a marketing website that will uplo
 
 Project Duration is `10 days`.
 
-# Requirements
+## Requirements
 Below are the list of requirements that you should implement in our marketing website.
 
-## Pages
+#### Pages
 
 * Home Page - The main landing page
 
@@ -24,7 +24,7 @@ Below are the list of requirements that you should implement in our marketing we
 * Contact Us Page - A contact form page
 
   
-## Theme and Design
+#### Theme and Design
 
 For the theme you can select either of this given options.
 
