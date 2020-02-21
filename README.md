@@ -21,7 +21,7 @@ Below are the list of requirements that you should implement in our marketing we
 
 * Our Clients - Contains list of partnerships and customers
 
-* Contact Us Page - A contact form page
+* Contact Us Page - A contact form page ( Should be a working contact form )
 
   
 #### Theme and Design
@@ -35,26 +35,26 @@ For the theme you can select either of this given options.
 ***Please take note that any Theme Builders are not allowed!***
 
 
-## Friendly url
+#### Friendly url
 Every created pages should be in a readble format.
 
-## Plugins
+#### Plugins
 Implement at least `two custom plugins` and `one free plugin` from wordpress.
 
-## Admin Login
+#### Admin Login
 Should be `hidden`, `protected` and have a `custom url`
 
-## Database 
+#### Database 
 You can create you own custom tables.
 
-## Users
-Can login multiple users with a different roles
+#### Users
+Can login multiple users with a different account roles.
 
-## Screen sizes
-//TODO
+#### Screen sizes
+You should create a responsive UI for three device categories mobile, tablet and desktop. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
 
-## Hosting
-//TODO
+#### Hosting
+You can host using [x10hosting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiUjMT28-HnAhXjyYsBHcCuAbMQFjAAegQIBxAC&url=https%3A%2F%2Fx10hosting.com%2F&usg=AOvVaw0iBF-TYzPx4eLA64sX-Pfs) or any free hosting site for demonstration
 
 
 # Finished
