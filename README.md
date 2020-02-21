@@ -39,6 +39,9 @@ Every created pages should be in a readble format.
 ## Plugins
 Implement at least `two custom plugins` and `one free plugin` from wordpress.
 
+## Admin Login
+Should protected and have a custom url
+
 ## Database 
 You can create you own custom tables.
 
