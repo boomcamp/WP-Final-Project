@@ -19,6 +19,8 @@ Below are the list of requirements that you should implement in our marketing we
 
 * Products - Contains list of available solutions or services
 
+* Our Clients - Contains list of partnerships and customers
+
 * Contact Us Page - A contact form page
 
   
