@@ -39,7 +39,7 @@ For the theme you can select either of this given options.
 Every created pages should be in a readble format.
 
 #### Plugins
-Implement at least `two custom plugins` and `one free plugin` from wordpress.
+Implement at least `two custom plugins` and `free plugins` from wordpress.
 
 #### Admin Login
 Should be `hidden`, `protected` and have a `custom url`
@@ -51,10 +51,13 @@ You can create you own custom tables.
 Can login multiple users with a different account roles.
 
 #### Screen sizes
-You should create a responsive UI for three device categories mobile, tablet and desktop. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
+You should create a responsive UI for three device categories `mobile`, `tablet` and `desktop`. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
+
+### Security
+Implemented at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
 
 #### Hosting
-You can host using [x10hosting](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiUjMT28-HnAhXjyYsBHcCuAbMQFjAAegQIBxAC&url=https%3A%2F%2Fx10hosting.com%2F&usg=AOvVaw0iBF-TYzPx4eLA64sX-Pfs) or any free hosting site for demonstration
+You can use any avilable free hosting sites
 
 
 # Finished
