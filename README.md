@@ -6,10 +6,10 @@ In your final project you are going to create a marketing website that will uplo
 
 Project Duration is `10 days`.
 
-## Requirements
+# Requirements
 Below are the list of requirements that you should implement in our marketing website.
 
-#### Pages
+## Pages
 
 * Home Page - The main landing page
 
@@ -24,7 +24,7 @@ Below are the list of requirements that you should implement in our marketing we
 * Contact Us Page - A contact form page ( Should be a working contact form )
 
   
-#### Theme and Design
+## Theme and Design
 
 For the theme you can select either of this given options.
 
@@ -35,28 +35,28 @@ For the theme you can select either of this given options.
 ***Please take note that any Theme Builders are not allowed!***
 
 
-#### Friendly url
+## Friendly url
 Every created pages should be in a readble format.
 
-#### Plugins
+## Plugins
 Implement at least `two custom plugins` and `free plugins` from wordpress.
 
-#### Admin Login
+## Admin Login
 Should be `hidden`, `protected` and have a `custom url`
 
-#### Database 
+## Database 
 You can create you own custom tables.
 
-#### Users
+## Users
 Can login multiple users with a different account roles.
 
-#### Screen sizes
+## Screen sizes
 You should create a responsive UI for three device categories `mobile`, `tablet` and `desktop`. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
 
-### Security
+## Security
 Implemented at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
 
-#### Hosting
+## Hosting
 You can use any avilable free hosting sites
 
 
