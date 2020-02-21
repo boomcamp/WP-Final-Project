@@ -48,7 +48,7 @@ Should be `hidden`, `protected` and have a `custom url`
 You can create you own custom tables.
 
 ## Users
-//TODO
+Can login multiple users with a different roles
 
 ## Screen sizes
 //TODO
@@ -58,4 +58,9 @@ You can create you own custom tables.
 
 
 # Finished
-//TODO
+Submit the following to Google Classroom assignment related to this project.
+
+* Link of repository
+* Link of you hosted domain
+
+
