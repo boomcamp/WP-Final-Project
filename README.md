@@ -4,17 +4,35 @@ Website marketing is marketing used to promote a website and hopefully get more 
 
 In your final project you are going to create a marketing website that will upload in a free hosting sites.
 
-## Requirements
-//TODO
+# Requirements
+Below are the list of requirements that you should implement in our marketing website
 
-## SEO Friendly URL
-//TODO
 
 ## Pages
-//TODO 
+
+Home Page - The main landing page
+About Page - Page that describes about the company history etc.
+Blog - This page must contain `categories`, `posts` and `comments`
+Contact Us Page - A contact form page
+
   
-## Theme
-//TODO
+## Theme and Design
+For the theme you can select either of this given options.
+
+* Custom Theme - You can design your own theme from scratch 
+
+* Existing themes - You can download activate and use available themes from the internet
+
+***Please take note that Wordpress Theme Builders are not allowed!***
+
+
+## Friendly url
+Every created pages should be in a readble format.
+
+
+## Plugins
+Implement at least `two custom plugins` and `one free plugin` from wordpress.
+
 
 ## Database 
 //TODO
@@ -22,14 +40,12 @@ In your final project you are going to create a marketing website that will uplo
 ## Users
 //TODO
 
-## Screen Resolutions
+## Screen sizes
 //TODO
 
 ## Hosting
 //TODO
 
-## Custom plugin
-//TODO
 
 # Finished
 //TODO
