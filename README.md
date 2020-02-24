@@ -57,7 +57,7 @@ You should create a responsive UI for three device categories `mobile`, `tablet`
 Implemented at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
 
 ## Hosting
-You can use any avilable free hosting sites
+You can use any available free hosting sites. 
 
 
 # Finished
