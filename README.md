@@ -26,20 +26,16 @@ Below are the list of requirements that you should implement in our marketing we
   
 ## Theme and Design
 
-For the theme you can select either of this given options.
-
-* Custom Theme - You can design your own theme from scratch.
-
-* Existing themes - You can download activate and use available themes from the internet
+For the theme you need to build custom theme from scratch
 
 ***Please take note that any Theme Builders are not allowed!***
 
 
 ## Friendly url
-Every created pages should be in a readble format.
+Every pages should be in a readble format.
 
 ## Plugins
-Implement at least `two custom plugins` and `free plugins` from wordpress.
+Implement at least `two custom plugins` and `free plugins`.
 
 ## Admin Login
 Should be `hidden`, `protected` and have a `custom url`
@@ -54,16 +50,16 @@ Can login multiple users with a different account roles.
 You should create a responsive UI for three device categories `mobile`, `tablet` and `desktop`. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
 
 ## Security
-Implemented at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
+Implement at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
 
 ## Hosting
-You can use any available free hosting sites. 
+Should be hosted in a free hosting site. 
 
 
 # Finished
 Submit the following to Google Classroom assignment related to this project.
 
-* Link of repository
-* Link of you hosted domain
+* Link of repository.
+* Link of your live domain.
 
 
