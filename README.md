@@ -15,7 +15,7 @@ Below are the list of requirements that you should implement in our marketing we
 
 * About Page - Page that describes about the company history etc.
 
-* Blog - This page must contain `categories`, `posts`, `comments` and should be implemented using a wordpress custom loop.
+* Blog - This page must contain `categories`, `posts`, `comments`.
 
 * Products - Contains list of available solutions or services and should be implemented using global wordpress database.
 
@@ -23,13 +23,13 @@ Below are the list of requirements that you should implement in our marketing we
 
 * Contact Us Page - A contact form page ( Should be a working contact form )
 
+You can add your own page as well
   
 ## Theme and Design
 
-For the theme you need to build custom theme from scratch
+For the theme you need to build a `custom theme from scratch` that has a `responsive layout`.
 
 ***Please take note that any Theme Builders are not allowed!***
-
 
 ## Friendly url
 Every pages should be in a readble format.
@@ -41,7 +41,7 @@ Implement at least `two custom plugins` and `free plugins`.
 Should be `hidden`, `protected` and have a `custom url`
 
 ## Database 
-You can create you own custom tables.
+Create your custom table and implement `$wpdb` custom query and `WP_Query` custom loop.
 
 ## Users
 Can login multiple users with a different account roles.
