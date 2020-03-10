@@ -1,4 +1,4 @@
-# Marketing Website
+# Introduction
 
 Website marketing is marketing used to promote a website and hopefully get more traffic to a website. More traffic translates to better on-line advertising placed on the website. When Internet users visit an ad on a website's page, it is referred to as CTR (click-through rate). The higher the CTR, the more the website owner stands to earn from the ads.
 
