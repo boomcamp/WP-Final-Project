@@ -15,7 +15,7 @@ Below are the list of requirements that you should implement in our marketing we
 
 * About Page - Page that describes about the company history etc.
 
-* Blog - This page must contain `categories`, `posts`, `comments`.
+* Blog - This page must contain `categories`, `posts`, `comments`, you should implement the `WP_Query` in this page.
 
 * Products - Contains list of available solutions or services and should be implemented using wordpress `$wpdb` global database.
 
