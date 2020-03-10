@@ -17,7 +17,7 @@ Below are the list of requirements that you should implement in our marketing we
 
 * Blog - This page must contain `categories`, `posts`, `comments`.
 
-* Products - Contains list of available solutions or services and should be implemented using global wordpress database.
+* Products - Contains list of available solutions or services and should be implemented using wordpress `$wpdb` global database.
 
 * Our Clients - Contains list of partnerships and customers
 
@@ -27,7 +27,7 @@ You can add your own page as well
   
 ## Theme and Design
 
-For the theme you need to build a `custom theme from scratch` that has a `responsive layout`.
+You can create your own custom theme or use an existing theme it should have a `responsive layout`.
 
 ***Please take note that any Theme Builders are not allowed!***
 
