@@ -48,7 +48,7 @@ Create your custom table and implement `$wpdb` custom query and `WP_Query` custo
 ## Users
 Can login multiple users with a different account roles.
 
-## Screen sizes
+## Screen sizes and Layout
 You should create a responsive UI and have at least 3 different [screen sizes](http://screensiz.es/).
 
 ## Security
