@@ -61,5 +61,6 @@ Submit the following to Google Classroom assignment related to this project.
 
 * Link to your repository.
 * Link to the live domain.
+* Link to `.zip` of your custom plugins.
 
 
