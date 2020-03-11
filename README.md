@@ -49,7 +49,7 @@ Create your custom table and implement `$wpdb` custom query and `WP_Query` custo
 Can login multiple users with a different account roles.
 
 ## Screen sizes
-You should create a responsive UI for three device categories `mobile`, `tablet` and `desktop`. There are no exact device requirement, but your design should be usable on those three device classes with their respective screen sizes.
+You should create a responsive UI and have at least 3 different [screen sizes](http://screensiz.es/).
 
 ## Security
 
