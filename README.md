@@ -152,4 +152,5 @@ Submit the following to Google Classroom assignment related to this project.
 * Link of repository.
 * Link of your live domain.
 * Link to `.zip` of your custom plugins.
+* Link to `.sql` of the application.
 
