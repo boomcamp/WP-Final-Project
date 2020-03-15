@@ -14,6 +14,9 @@ Here are some major problems:
 
 * Untrackable employees leaves and uninformed decisions.
 
+* Unorganized leave contents.
+
+* Improper channeling.
 
 # Requirements:
 
