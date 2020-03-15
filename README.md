@@ -33,19 +33,19 @@ Here are some major problems:
 
 ### Employees Menu:
 	
-1.) Request Policy - The policy for requesting a leave
+1.) Request Policy - The policy for requesting a leave.
 
-2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year "leaves should be editable"
+2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year `leaves should be editable`.
 
-3.) My Leave Balance - the leave balances include leave taken the previous month, but do not include any leave taken during the current pay period
+3.) My Leave Balance - The leave balances it includes leave taken the previous month, but do not include any leave taken during the current pay period.
 
-4.) Request a Leave - Request form to be filled up by the employee
+4.) Request a Leave - Request form to be filled up by an employee.
 
 ```
 Date filed: Date today 
 Project Manager(s)/Supervisor: (Can select multiple managers or supervisors)
-Type : Absent/Leave
-Reasons:
+Type : (Leave without pay(absent) or Leave with pay(Vacation/Sick/Maternity etc.))
+Reasons: (A valid leave reason)
 Leave Balance: (If type is absent do not display leave balance, should also have an information that it will be deducted once leave request approved)
 Duration: (Nos. of leave days)
 Status: (Default is Pending)
@@ -57,10 +57,12 @@ To: (Leave until)
 
 1.) Request Policy
 
-2.) Employee Leave(s)- Display by department, line managers should have an option to update employees leave status to Approved, Pending or Rejected, every leave is "PRINTABLE" to be signed by line managers
+2.) Employee Leave(s) - Searchable by department and last name but sortable by leave status and department, line managers should have an option to update employees leave status to `Approved`, `Pending` or `Rejected`, every leave is `PRINTABLE` to be signed by line managers.
 
 3.) My Leave(s)
+
 4.) My Leave Balance 	
+
 5.) Request a Leave
 
 
@@ -69,8 +71,37 @@ To: (Leave until)
 1.) Update Policy - A form that updates the request policy.
 
 2.) Leave Balance 
-			
+
+* Add leave types - Able to add new leave types to be used by the requester.
+
+Example: 
+
+```
+Type: Leave with pay
+Name: Maternity
+Days: 60 days
+Paid: Yes
+
+Type: Leave without pay
+Name: Absent
+Days: 0 days
+Paid: No
+```
+
 * Add leave balance - Able to add new leave balance for the next year(s) in a department(e.g 2021 - Software Development - 2021)
+
+```
+Department: Software Development
+Year : 2021
+
+Leave Type(s) :
+ 1.) Leave with pay 
+     Sick: 5 days
+     Vacation: 15 days
+     
+ 2.) Leave without pay
+     Absent : 0 days
+```
 
 * Update leave balances - Able to update leave balances of the employees (updates should be in every department)
 		
@@ -78,10 +109,6 @@ To: (Leave until)
 
 4.) Request Leave
 
-
-## Application Functions and Workflow:
-
-//TODO
 
 ## Url
 
