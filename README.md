@@ -75,7 +75,7 @@ To: (Leave until)
 
 * **Leave Balance** 
 
-* *Add leave types - Able to add new leave types to be used by the requester.
+* *Add leave types - Able to add new leave types to be used by the requester*.
 
 Example: 
 
@@ -91,7 +91,7 @@ Days: 0 days
 Paid: No
 ```
 
-* *Add leave balance - Able to add new leave balance for the next year(s) in a department `e.g 2021 - Software Development - 2021`
+* *Add leave balance - Able to add new leave balance for the next year(s) in a department `e.g 2021 - Software Development - 2021`*
 
 ```
 Department: Software Development
@@ -106,7 +106,7 @@ Leave Type(s) :
      Absent : 0 days
 ```
 
-* *Update leave balances - Able to update leave balances of the employees (updates should be in every department)
+* *Update leave balances - Able to update leave balances of the employees (updates should be in every department)*
 		
 * **My leave balance** 	
 
