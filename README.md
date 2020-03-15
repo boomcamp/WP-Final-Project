@@ -34,7 +34,7 @@ Every pages should be in a form of shortcodes e.g `[home]`, `[request_policy]` e
 
 ### Employees Menu:
 	
-1.) Request Policy - The policy for requesting a leave.
+1.) Request Policy - The policy for requesting a leave this includes the 2 week advance notice when filling a leave request.
 
 2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year `current requested leaves should be editable`.
 
