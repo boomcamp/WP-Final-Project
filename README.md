@@ -17,7 +17,7 @@ Here are some major problems:
 
 * Database name `bc_leave_db`.
 
-* Database custom tables should also have a table prefix `bc_`.
+* Database tables should have a table prefix `bc_`.
 
 * Able to dump mysql database. 
 
@@ -25,6 +25,7 @@ Here are some major problems:
 
 ## Pages
 
+Every pages should be in a form of shortcodes e.g `[home]`, `[request_policy]` etc. 
 
 ### Dashboard
 
