@@ -6,7 +6,7 @@ Leave Management - The goal is to create a leave management system that process 
 
 Here are some major problems:
 
-* Line managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
+* Approving managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
 
 * Boom.Camp employees updates leave content by sending multiple leave request. 
 
@@ -58,7 +58,7 @@ From: (Leave from)
 To: (Leave until)
 ```
 
-### Line Manager(s) menu
+### Approving Manager(s) menu
 
 * **Request Policy**
 
