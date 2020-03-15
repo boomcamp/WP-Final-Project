@@ -2,8 +2,6 @@
 
 Leave Management - The goal is to create a leave management system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
 
-Example workflow from eLeave:
-
 ![leave.png](leave.png)
 
 Here are some major problems:
