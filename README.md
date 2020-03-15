@@ -32,7 +32,7 @@ Every pages should be in a form of shortcodes e.g `[home]`, `[request_policy]` e
 1.) Home - The main landing page that tells about the Boom.Camp leave management it should have a button "Request Leave" that will redirects the employee to the request form page
 
 
-### Employees Menu:
+### Requester Menu:
 	
 1.) Request Policy - The policy for requesting a leave this includes the 2 week advance notice when filling a leave request.
 
@@ -110,8 +110,9 @@ Leave Type(s) :
 
 4.) Request Leave
 
-# Notification
+# Email and push notification
 
+* Push notification message should appear to HR personnel and Line managers page.
 
 * After submiting a notification email should be received by the line managers informing about the leave request.
 
