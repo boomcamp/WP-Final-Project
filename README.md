@@ -1,6 +1,6 @@
 # Introduction
 
-Leave Management - The goal is to create a leave managment system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
+Leave Management - The goal is to create a leave management system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
 
 Here are some major problems:
 
