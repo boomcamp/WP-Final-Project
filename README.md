@@ -35,7 +35,7 @@ Here are some major problems:
 	
 1.) Request Policy - The policy for requesting a leave.
 
-2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year `leaves should be editable`.
+2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year `current requested leaves should be editable`.
 
 3.) My Leave Balance - The leave balances it includes leave taken the previous month, but do not include any leave taken during the current pay period.
 
