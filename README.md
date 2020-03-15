@@ -1,70 +1,117 @@
 # Introduction
 
-Website marketing is marketing used to promote a website and hopefully get more traffic to a website. More traffic translates to better on-line advertising placed on the website. When Internet users visit an ad on a website's page, it is referred to as CTR (click-through rate). The higher the CTR, the more the website owner stands to earn from the ads.
+Boom.Camp - Leave Management - The goal is to create a leave managment system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
 
-In your final project you are going to create a marketing website and upload it in a free hosting sites. 
+Here are some major problems:
 
-Project Duration is `10 days`.
+1. Line managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
 
-# Requirements
-Below are the list of requirements that you should implement in our marketing website.
+2. Boom.Camp employees updates leave content by sending multiple leave request. 
+
+3. Untrackable employees leaves and uninformed decisions.
+
+
+# Requirements:
+
+## Database
+
+* Database name `bc_leave_db`.
+
+* Database custom tables should also have a table prefix `bc_`.
+
+* Able to dump mysql database. 
+
+* Custom queries should be a prepared statements.
 
 ## Pages
 
-* Home Page - The main landing page
 
-* About Page - Page that describes about the company history etc.
+### Dashboard
 
-* Blog - This page must contain `categories`, `posts`, `comments`, you should implement the `WP_Query` in this page.
+1.) Home - The main landing page that tells about the Boom.Camp leave management it should have a button "Request Leave" that will redirects the employee to the request form page
 
-* Products - Contains list of available solutions or services and should be implemented using wordpress `$wpdb` global database to query products from `products` table.
 
-* Our Clients - Contains list of partnerships and customers
+### Employees Menu:
+	
+1.) Request Policy - The policy for requesting a leave
 
-* Contact Us Page - A contact form page ( Should be a working contact form )
+2.) My Leave(s) - The page that displays leave information including Approved, Pending and Rejected within a year "leaves should be editable"
 
-You can add your own page as well
-  
-## Theme and Design
+3.) My Leave Balance - the leave balances include leave taken the previous month, but do not include any leave taken during the current pay period
 
-You can create your own custom theme or use an existing theme it should have a `responsive layout`.
+4.) Request a Leave - Request form to be filled up by the employee
 
-***Please take note that any Theme Builders are not allowed!***
+```
+Date filed: Date today 
+Project Manager(s)/Supervisor: (Can select multiple managers or supervisors)
+Type : Absent/Leave
+Reasons:
+Leave Balance: (If type is absent do not display leave balance, should also have an information that it will be deducted once leave request approved)
+Duration: (Nos. of leave days)
+Status: (Default is Pending)
+From: (Leave from)
+To: (Leave until)
+```
 
-## Friendly url
-Every pages should be in a readble format.
+### Line Manager(s) menu
+
+1.) Request Policy
+
+2.) Employee Leave(s)- Display by department, line managers should have an option to update employees leave status to Approved, Pending or Rejected, every leave is "PRINTABLE" to be signed by line managers
+
+3.) My Leave(s)
+4.) My Leave Balance 	
+5.) Request a Leave
+
+
+### HR personnel
+
+1.) Update Policy - A form that updates the request policy.
+
+2.) Leave Balance 
+			
+* Add leave balance - Able to add new leave balance for the next year(s) in a department(e.g 2021 - Software Development - 2021)
+
+* Update leave balances - Able to update leave balances of the employees (updates should be in every department)
+		
+3.) My leave balance 	
+
+4.) Request Leave
+
+
+## Application Functions and Workflow:
+
+//TODO
+
+## Url
+
+Application urls should be readable format
 
 ## Plugins
-* Implement at least `two custom plugins` and wordpress `free plugins`.
 
-* Implement `$wpdb` for the prepared queries.
-
-## Admin Login
-Should be `hidden`, `protected` and have a `custom url`
-
-## Database 
-Create your custom table and implement `$wpdb` custom query and `WP_Query` custom loop.
-
-## Users
-Can login multiple users with a different account roles.
-
-## Screen sizes and Layout
-You should create a responsive UI and have at least 3 different [screen sizes](http://screensiz.es/).
+Bomm.Camp leave management should be in a form of plugin called `bcleave` and can be installed to other wordpress projects.
 
 ## Security
 
-* Implement at least 2 [wordpress](https://www.wpbeginner.com/wordpress-security/) security measures
-
-* Custom queries should be a `prepared` statement.
+Youre task is to determine what [security measures](https://secure.wphackedhelp.com/blog/wordpress-security-checklist-guide/) are needed to apply to ensure that application are not prone to hacking.
 
 ## Hosting
-Should be hosted in a free hosting site. 
+
+You will need to host this appliction and have live domain accessable in public.
+
+## Admin Login
+
+Should have a custom url and hidden to public.
+
+## Screen sizes and Layout
+
+You should create a responsive UI and have at least 3 different screen sizes.
 
 # Finished
+
 Submit the following to Google Classroom assignment related to this project.
 
-* Link to your repository.
-* Link to the live domain.
+* Link of repository.
+* Link of your live domain.
 * Link to `.zip` of your custom plugins.
-
 
