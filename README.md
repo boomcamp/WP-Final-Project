@@ -4,11 +4,11 @@ Leave Management - The goal is to create a leave managment system that process o
 
 Here are some major problems:
 
-1. Line managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
+* Line managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
 
-2. Boom.Camp employees updates leave content by sending multiple leave request. 
+* Boom.Camp employees updates leave content by sending multiple leave request. 
 
-3. Untrackable employees leaves and uninformed decisions.
+* Untrackable employees leaves and uninformed decisions.
 
 
 # Requirements:
@@ -25,22 +25,22 @@ Here are some major problems:
 
 ## Pages
 
-Every pages and sub pages can be created in a form of shortcodes e.g `[home]` etc. 
+* Every pages and sub pages can be created in a form of shortcodes e.g `[home]` etc. 
 
 ### Dashboard
 
-1.) **Home** *- The main landing page that tells about the Boom.Camp leave management it should have a button "Request Leave" that will redirects the employee to the request form page*
+* **Home** *- The main landing page that tells about the Boom.Camp leave management it should have a button "Request Leave" that will redirects the employee to the request form page*
 
 
 ### Requester Menu:
 	
-1.) **Request Policy** *- The policy for requesting a leave this includes the 2 week advance notice when filling a leave request.*
+* **Request Policy** *- The policy for requesting a leave this includes the 2 week advance notice when filling a leave request.*
 
-2.) **My Leave(s)** *- The page that displays leave information including Approved, Pending and Rejected within a year `current requested leaves should be editable`*.
+* **My Leave(s)** *- The page that displays leave information including Approved, Pending and Rejected within a year `current requested leaves should be editable`*.
 
-3.) **My Leave Balance** *- The leave balances it includes leave taken the previous month, but do not include any leave taken during the current pay period*.
+* **My Leave Balance** *- The leave balances it includes leave taken the previous month, but do not include any leave taken during the current pay period*.
 
-4.) **Request a Leave** *- Request form to be fill up by an employee*.
+* **Request a Leave** *- Request form to be fill up by an employee*.
 
 Example :
 
@@ -58,22 +58,22 @@ To: (Leave until)
 
 ### Line Manager(s) menu
 
-1.) **Request Policy**
+* **Request Policy**
 
-2.) **Employee Leave(s)** - Searchable by department and last name but sortable by leave status and department, line managers should have an option to update employees leave status to `Approved`, `Pending` or `Rejected`, every leave is `PRINTABLE` to be signed by line managers.
+* **Employee Leave(s)** - Searchable by department and last name but sortable by leave status and department, line managers should have an option to update employees leave status to `Approved`, `Pending` or `Rejected`, every leave is `PRINTABLE` to be signed by line managers.
 
-3.) **My Leave(s)**
+* **My Leave(s)**
 
-4.) **My Leave Balance** 	
+* **My Leave Balance** 	
 
-5.) **Request a Leave**
+* **Request a Leave**
 
 
 ### HR personnel
 
-1.) **Update Policy** *- A form that updates the request policy.*
+* **Update Policy** *- A form that updates the request policy.*
 
-2.) **Leave Balance** 
+* **Leave Balance** 
 
 * *Add leave types - Able to add new leave types to be used by the requester.
 
@@ -108,9 +108,9 @@ Leave Type(s) :
 
 * *Update leave balances - Able to update leave balances of the employees (updates should be in every department)
 		
-3.) **My leave balance** 	
+* **My leave balance** 	
 
-4.) **Request Leave**
+* **Request Leave**
 
 # Email and push notification
 
