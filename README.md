@@ -36,7 +36,7 @@ Here are some major problems:
 	
 * **Request Policy** *- The policy for requesting a leave this includes the 2 week advance notice when filling a leave request.*
 
-* **My Leave(s)** *- The page that displays leave information including Approved, Pending and Rejected within a year `current requested leaves should be editable`*.
+* **My Leave(s)** *- The page that displays leave information including Approved, Pending and Rejected `current requested leaves should be editable`*.
 
 * **My Leave Balance** *- The leave balances it includes leave taken the previous month, but do not include any leave taken during the current pay period*.
 
@@ -60,7 +60,7 @@ To: (Leave until)
 
 * **Request Policy**
 
-* **Employee Leave(s)** - Searchable by department and last name but sortable by leave status and department, line managers should have an option to update employees leave status to `Approved`, `Pending` or `Rejected`, every leave is `PRINTABLE` to be signed by line managers.
+* **Employee Leave(s)** - Searchable by `department` and `last name` but sortable by `leave status` and `department`, line managers should have an option to update employees leave status to `Approved`, `Pending` or `Rejected`, every leave is `PRINTABLE` to be signed by line managers.
 
 * **My Leave(s)**
 
