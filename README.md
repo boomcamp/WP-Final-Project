@@ -4,7 +4,7 @@ Leave Management - The goal is to create a leave management system that process 
 
 Example workflow from eLeave:
 
-
+![leave.png](leave.png)
 
 Here are some major problems:
 
