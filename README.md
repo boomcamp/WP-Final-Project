@@ -25,7 +25,7 @@ Here are some major problems:
 
 ## Pages
 
-Every pages should be in a form of shortcodes e.g `[home]`, `[request_policy]` etc. 
+Every pages and sub pages can be created in a form of shortcodes e.g `[home]` etc. 
 
 ### Dashboard
 
