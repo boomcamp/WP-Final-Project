@@ -110,6 +110,15 @@ Leave Type(s) :
 
 4.) Request Leave
 
+# Notification
+
+
+* After submiting a notification email should be received by the line managers informing about the leave request.
+
+* After approving a notification email should be received by the requester informing that leave request has been approved.
+
+* When line managers reject a request a notification email should be sent to the requester informing about the reason for reject.
+
 
 ## Url
 
