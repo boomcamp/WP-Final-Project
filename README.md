@@ -2,6 +2,10 @@
 
 Leave Management - The goal is to create a leave management system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
 
+Example workflow from eLeave:
+
+
+
 Here are some major problems:
 
 * Line managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
