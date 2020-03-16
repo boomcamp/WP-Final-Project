@@ -4,7 +4,7 @@ The goal is to create a leave management system that process of handling leaves 
 
 ![leave.png](leave.png)
 
-Here are some major problems:
+The problems:
 
 * Approving managers were not able to manage leaves of every team members within boom.camp organization that cause to make informed decisions before approving leaves.
 
