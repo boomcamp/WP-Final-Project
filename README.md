@@ -121,13 +121,13 @@ Leave Type(s) :
 
 # Email and push notification
 
-* Push notification message should appear to HR personnel and Line managers page.
+* Push notification message should appear to HR personnel and approving managers page.
 
-* After submiting a notification email should be received by the line managers informing about the leave request.
+* After submiting a notification email should be received by the approving managers informing about the leave request.
 
 * After approving a notification email should be received by the requester informing that leave request has been approved.
 
-* When line managers reject a request a notification email should be sent to the requester informing about the reason for reject.
+* When approving managers reject a request a notification email should be sent to the requester informing about the reason for reject.
 
 
 ## Url
