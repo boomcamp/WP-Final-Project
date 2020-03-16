@@ -18,6 +18,8 @@ Here are some major problems:
 
 # Requirements:
 
+The first rule is implementation of object oriented design for this CMS project.
+
 ## Database
 
 * Database name `bc_leave_db`.
