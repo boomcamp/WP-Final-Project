@@ -14,7 +14,7 @@ Here are some major problems:
 
 * Unorganized leave contents.
 
-* Improper channeling.
+* Improper channeling or receipients.
 
 # Requirements:
 
