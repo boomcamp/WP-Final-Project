@@ -1,7 +1,5 @@
 # Introduction
 
-Duration : 5 weeks
-
 Leave Management - The goal is to create a leave management system that process of handling leaves and absences due to sickness vacation or other reasons, increases employee satisfaction, provides transparency and eliminates unexplained or excessive absenteeism.
 
 ![leave.png](leave.png)
@@ -29,6 +27,8 @@ Here are some major problems:
 * Able to dump mysql database. 
 
 * Custom queries should be a prepared statements.
+
+* Uses wordpress wpdb custom connection.
 
 ## Pages
 
