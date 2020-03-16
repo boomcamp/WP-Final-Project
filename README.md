@@ -28,7 +28,7 @@ Here are some major problems:
 
 * Custom queries should be a prepared statements.
 
-* Uses wordpress wpdb custom connection.
+* Uses wordpress [wpdb](https://github.com/boomcamp/starter-wp-theme-plugin) custom connection.
 
 ## Pages
 
